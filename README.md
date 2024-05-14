@@ -18,7 +18,7 @@
 ## 🚀 LeetCode Progress
 
 <p align="left">
-  <img src="https://leetcard.jacoblin.cool/saho-north?theme=unicorn&font=ABeeZee" />
+  <img src="https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee" />
 </p>
 
 ## 📞 Contact Me
