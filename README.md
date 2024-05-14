@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**skitheom/skitheom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on 42 minishell project.
+- 🌱 I’m currently learning computer Science at UoPeople and 42.
 
-Here are some ideas to get you started:
+## 📈 GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saho-north&theme=tokyonight" /></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saho-north&theme=tokyonight" /></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saho-north&theme=tokyonight" /></td>
+  </tr>
+</table>
+
+## 🚀 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/saho-north?theme=unicorn&font=ABeeZee" />
+</p>
+
+## 📞 Contact Me
+- Twitter: [@skith___](https://twitter.com/skith___)
