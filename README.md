@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m working on the 42 minishell project.
-- 🌱 I’m learning C...
+- 🌱 I’m learning ?????
 
 ## 📈 GitHub Statistics
 
