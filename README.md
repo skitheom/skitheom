@@ -6,8 +6,9 @@
 ## 📈 GitHub Statistics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+  
 </p>
-
+![skitheom's Stats](https://github-readme-stats.vercel.app/api?username=skitheom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ## 🚀 LeetCode Progress
 
 <p align="left">
