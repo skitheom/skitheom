@@ -10,6 +10,12 @@
   </tr>
 </table>
 
+![skitheom's Stats](https://github-readme-stats.vercel.app/api?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+
+![skitheom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skitheom&theme=blueberry&hide_border=true)
+
+![skitheom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
 ## 🚀 LeetCode Progress
 
 <p align="left">
