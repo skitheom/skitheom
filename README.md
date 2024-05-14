@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skitheom&theme=tokyonight" /></td>
+    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skitheom&theme=tokyonight" /></td>
   </tr>
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skitheom&theme=tokyonight" /></td>
