@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 42 minishell project.
-- 🌱 I’m currently learning Computer Science at UoPeople and 42.
+- 🔭 I’m working on the 42 minishell project.
+- 🌱 I’m learning Computer Science at UoPeople and 42.
 
 ## 📈 GitHub Statistics
 
