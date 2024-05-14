@@ -4,30 +4,13 @@
 - 🌱 I’m learning CS at UoPeople.
 
 ## 📈 GitHub Statistics
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
 </p>
 
-![skitheom's Stats](https://github-readme-stats.vercel.app/api?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![skitheom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skitheom&theme=blueberry&hide_border=true)
-
-<table>
-  <tr>
-    <td colspan="2"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skitheom&theme=tokyonight" /></td>
-  </tr>
-  <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skitheom&theme=tokyonight" /></td>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=skitheom&theme=tokyonight" /></td>
-  </tr>
-</table>
-
-
-
-![skitheom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-
 ## 🚀 LeetCode Progress
 
-<p align="left">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee" />
 </p>
 
