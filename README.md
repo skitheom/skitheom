@@ -21,7 +21,7 @@
   <img src="https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee" />
 </p>
 
-## 💻 42 Progress
+## 💫 42 Progress
 
 ### Completed
 - 2023-06-02 [libft](https://github.com/skitheom/libft)
