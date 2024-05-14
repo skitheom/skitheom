@@ -4,13 +4,13 @@
 - 🌱 I’m learning CS at UoPeople.
 
 ## 📈 GitHub Statistics
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=skitheom&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
 </p>
 
 ## 🚀 LeetCode Progress
 
-<p align="center">
+<p align="left">
   <img src="https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee" />
 </p>
 
