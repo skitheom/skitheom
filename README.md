@@ -21,5 +21,17 @@
   <img src="https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee" />
 </p>
 
+## 42 Progress
+
+<table>
+  <tr>
+    <td colspan="2">1st circle</td>
+  </tr>
+  <tr>
+    <td>libft</td>
+    <td>libft</td>
+  </tr>
+</table>
+
 ## 📞 Contact Me
 - Twitter: [@skith___](https://twitter.com/skith___)
