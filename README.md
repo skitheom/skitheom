@@ -2,6 +2,7 @@
 
 - 🔭 I’m working on the 42 minishell project.
 - 🌱 I’m learning CS at UoPeople.
+![skitheom's Stats](https://github-readme-stats.vercel.app/api?username=skitheom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## 📈 GitHub Statistics
 <p align="left">
