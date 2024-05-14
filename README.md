@@ -9,8 +9,7 @@
 ## 🚀 LeetCode Progress
 ![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)
 
-### 💫 42 Progress
-
+## 💫 42 Progress
 #### Completed
 - 2023-06-02 [libft](https://github.com/skitheom/libft)
 - 2023-06-03 [ft_printf](https://github.com/skitheom/ft_printf)
