@@ -31,6 +31,3 @@
 - 2023-12-05 [minitalk](https://github.com/skitheom/minitalk)
 - Waiting for peer review [FdF](https://github.com/skitheom/FdF)
 - Currently working on [minishell](https://github.com/kose-yusuke/minishell)
-
-## 📞 Contact Me
-- Twitter: [@skith___](https://twitter.com/skith___)
