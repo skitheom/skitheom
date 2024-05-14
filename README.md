@@ -23,15 +23,14 @@
 
 ## 42 Progress
 
-<table>
-  <tr>
-    <td colspan="2">1st circle</td>
-  </tr>
-  <tr>
-    <td>libft</td>
-    <td>libft</td>
-  </tr>
-</table>
+- 2023-06-02 [libft](https://github.com/skitheom/libft)
+- 2023-06-03 [ft_printf](https://github.com/skitheom/ft_printf)
+- 2023-06-14 [get_next_line](https://github.com/skitheom/get_next_line)
+- 2023-07-05 [Born2beroot](https://github.com/skitheom/born2beroot)
+- 2023-08-12 [push_swap](https://github.com/skitheom/push_swap)
+- 2023-12-05 [minitalk](https://github.com/skitheom/minitalk)
+- Waiting for peer review [FdF](https://github.com/skitheom/FdF)
+- Currently working on [minishell](https://github.com/kose-yusuke/minishell)
 
 ## 📞 Contact Me
 - Twitter: [@skith___](https://twitter.com/skith___)
