@@ -20,4 +20,4 @@
 
 #### On going
 - Awaiting peer review [FdF](https://github.com/skitheom/FdF)
-- Working on [minishell](https://github.com/kose-yusuke/minishell)
+- Working on [minishell](https://github.com/kose-yusuke/minishell), [Philosophers](https://github.com/skitheom/Philosophers)
