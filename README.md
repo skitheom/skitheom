@@ -1,6 +1,5 @@
 ### Hi there 🐻
 
-- 🔭 I’m working on the 42 minishell project.
 - 🌱 I’m learning CS at UoPeople.
 
 ## 📈 GitHub Statistic
@@ -17,7 +16,6 @@
 - 2023-07-05 [Born2beroot](https://github.com/skitheom/born2beroot)
 - 2023-08-12 [push_swap](https://github.com/skitheom/push_swap)
 - 2023-12-05 [minitalk](https://github.com/skitheom/minitalk)
-
+- 2024-09-?? [FdF](https://github.com/skitheom/FdF)
 #### On going
-- Awaiting peer review [FdF](https://github.com/skitheom/FdF)
 - Working on [minishell](https://github.com/kose-yusuke/minishell), [Philosophers](https://github.com/skitheom/Philosophers)
