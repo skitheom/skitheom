@@ -19,4 +19,4 @@
 - 2024-09-19 [FdF](https://github.com/skitheom/FdF)
 - 2024-10-12 [minishell](https://github.com/kose-yusuke/minishell)
 #### On going
-- Working on [Philosophers](https://github.com/skitheom/Philosophers)
+- Working on [Philosophers](https://github.com/skitheom/Philosophers), [cub3D](https://github.com/kose-yusuke/Cub3D)
