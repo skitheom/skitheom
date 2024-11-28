@@ -18,5 +18,6 @@
 - 2023-12-05 [minitalk](https://github.com/skitheom/minitalk)
 - 2024-09-19 [FdF](https://github.com/skitheom/FdF)
 - 2024-10-12 [minishell](https://github.com/kose-yusuke/minishell)
+- 2024-11-27 [Philosophers](https://github.com/skitheom/Philosophers)
 #### On going
-- Working on [Philosophers](https://github.com/skitheom/Philosophers), [cub3D](https://github.com/kose-yusuke/Cub3D)
+- Working on [cub3D](https://github.com/kose-yusuke/Cub3D), [CPP Modules](https://github.com/skitheom/CPP-Modules)
