@@ -20,4 +20,4 @@
 - 2024-10-12 [minishell](https://github.com/kose-yusuke/minishell)
 - 2024-11-27 [Philosophers](https://github.com/skitheom/Philosophers)
 #### On going
-- Working on [cub3D](https://github.com/kose-yusuke/Cub3D), [CPP Modules](https://github.com/skitheom/CPP-Modules)
+- Working on [cub3D](https://github.com/kose-yusuke/Cub3D), etc
