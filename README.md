@@ -21,7 +21,7 @@
 - 2024-11-27 [Philosophers](https://github.com/skitheom/Philosophers)
 - 2024-12-11 [Cpp00](https://github.com/skitheom/Cpp00)
 - 2024-12-15 [cub3D](https://github.com/kose-yusuke/Cub3D)
-- 2024-12-21 [Cpp01](https://github.com/skitheom/Cpp01
+- 2024-12-21 [Cpp01](https://github.com/skitheom/Cpp01)
 - 2024-12-23 [Netpractice](https://github.com/skitheom/Netpractice)
 #### On going
 - Working on [Cpp02](https://github.com/skitheom/Cpp02), [Cpp03](https://github.com/skitheom/Cpp03), [Cpp04](https://github.com/skitheom/Cpp04) 
