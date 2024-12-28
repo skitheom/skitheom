@@ -24,4 +24,4 @@
 - 2024-12-21 [Cpp01](https://github.com/skitheom/Cpp01)
 - 2024-12-23 [Netpractice](https://github.com/skitheom/Netpractice)
 #### On going
-- Working on [Cpp02](https://github.com/skitheom/Cpp02), [Cpp03](https://github.com/skitheom/Cpp03), [Cpp04](https://github.com/skitheom/Cpp04) 
+- Working on [Cpp02](https://github.com/skitheom/Cpp02), [Cpp03](https://github.com/skitheom/Cpp03), [Cpp04](https://github.com/skitheom/Cpp04), [Cpp05](https://github.com/skitheom/Cpp05), [Cpp06](https://github.com/skitheom/Cpp06), [Cpp07](https://github.com/skitheom/Cpp07), [Cpp08](https://github.com/skitheom/Cpp08), [Cpp09](https://github.com/skitheom/Cpp09)
