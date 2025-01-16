@@ -10,6 +10,13 @@
 
 ## 💫 42 Progress
 #### Completed
+
+<style>
+table, th, td {
+  border: none; 
+}
+</style>
+
 |Date|Title|
 |----|-----|
 |2023-06-02|[libft](https://github.com/skitheom/libft)
