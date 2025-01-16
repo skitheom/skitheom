@@ -10,6 +10,10 @@
 
 ## 💫 42 Progress
 #### Completed
+|Date|Title|
+|----|-----|
+|a|b|
+
 - 2023-06-02    [libft](https://github.com/skitheom/libft)
 - 2023-06-03    [ft_printf](https://github.com/skitheom/ft_printf)
 - 2023-06-14    [get_next_line](https://github.com/skitheom/get_next_line)
