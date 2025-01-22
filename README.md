@@ -25,8 +25,8 @@
 - [Netpractice](https://github.com/skitheom/Netpractice)
 - [Cpp02](https://github.com/skitheom/Cpp02)
 - [Cpp03](https://github.com/skitheom/Cpp03)
-#### On going
 - [Cpp04](https://github.com/skitheom/Cpp04)
+#### On going
 - [Cpp05](https://github.com/skitheom/Cpp05)
 - [Cpp06](https://github.com/skitheom/Cpp06)
 - [Cpp07](https://github.com/skitheom/Cpp07)
