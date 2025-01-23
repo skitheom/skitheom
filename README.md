@@ -7,6 +7,7 @@
 
 ## 🚀 LeetCode Progress
 ![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)
+[LeetCode Practice](https://github.com/skitheom/leetcode)
 
 ## 💫 42 Progress
 #### Completed
