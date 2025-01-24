@@ -8,7 +8,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skitheom&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 LeetCode Progress
-[![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee&ext=heatmap)](https://github.com/skitheom/leetcode)
+[![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)](https://github.com/skitheom/leetcode)
 
 ## 💫 42 Progress
 #### Completed
