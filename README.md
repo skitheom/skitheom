@@ -29,9 +29,8 @@
 - [Cpp03](https://github.com/skitheom/Cpp03)
 - [Cpp04](https://github.com/skitheom/Cpp04)
 - [Cpp05](https://github.com/skitheom/Cpp05)
-
-#### On going
 - [Cpp06](https://github.com/skitheom/Cpp06)
+#### On going
 - [Cpp07](https://github.com/skitheom/Cpp07)
 - [Cpp08](https://github.com/skitheom/Cpp08)
 - [Cpp09](https://github.com/skitheom/Cpp09)
