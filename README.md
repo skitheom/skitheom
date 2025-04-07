@@ -35,6 +35,7 @@
 
 #### Exam prep
 - [microshell](https://github.com/skitheom/exam-04)
+- [cpp 00-02](https://github.com/skitheom/exam-05)
 
 #### On going
 - [Cpp09](https://github.com/skitheom/Cpp09)
