@@ -33,6 +33,9 @@
 - [Cpp07](https://github.com/skitheom/Cpp07)
 - [Cpp08](https://github.com/skitheom/Cpp08)
 
+#### Exam prep
+- [microshell](https://github.com/skitheom/exam-04)
+
 #### On going
 - [Cpp09](https://github.com/skitheom/Cpp09)
 - [Inception](https://github.com/skitheom/Inception)
