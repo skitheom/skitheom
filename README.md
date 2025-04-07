@@ -31,8 +31,9 @@
 - [Cpp05](https://github.com/skitheom/Cpp05)
 - [Cpp06](https://github.com/skitheom/Cpp06)
 - [Cpp07](https://github.com/skitheom/Cpp07)
-#### On going
 - [Cpp08](https://github.com/skitheom/Cpp08)
+
+#### On going
 - [Cpp09](https://github.com/skitheom/Cpp09)
 - [Inception](https://github.com/skitheom/Inception)
 - [Webserv](https://github.com/kose-yusuke/webserv)
