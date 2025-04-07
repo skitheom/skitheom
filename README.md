@@ -11,6 +11,15 @@
 [![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)](https://github.com/skitheom/leetcode)
 
 ## 💫 42 Progress
+#### On going
+- [Cpp09](https://github.com/skitheom/Cpp09)
+- [Inception](https://github.com/skitheom/Inception)
+- [Webserv](https://github.com/kose-yusuke/webserv)
+
+#### Exam prep
+- [microshell](https://github.com/skitheom/exam-04)
+- [cpp 00-02](https://github.com/skitheom/exam-05)
+
 #### Completed
 - [libft](https://github.com/skitheom/libft)
 - [ft_printf](https://github.com/skitheom/ft_printf)
@@ -32,12 +41,3 @@
 - [Cpp06](https://github.com/skitheom/Cpp06)
 - [Cpp07](https://github.com/skitheom/Cpp07)
 - [Cpp08](https://github.com/skitheom/Cpp08)
-
-#### Exam prep
-- [microshell](https://github.com/skitheom/exam-04)
-- [cpp 00-02](https://github.com/skitheom/exam-05)
-
-#### On going
-- [Cpp09](https://github.com/skitheom/Cpp09)
-- [Inception](https://github.com/skitheom/Inception)
-- [Webserv](https://github.com/kose-yusuke/webserv)
