@@ -17,7 +17,7 @@
 - [Webserv](https://github.com/kose-yusuke/webserv)
 
 #### Exam prep
-- [microshell](https://github.com/skitheom/exam-04)
+- [microshell](https://github.com/skitheom/microshell)
 - [cpp exam](https://github.com/skitheom/cpp-exam)
 - [miniserv](https://github.com/skitheom/miniserv)
 
