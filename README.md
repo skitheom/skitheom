@@ -18,7 +18,8 @@
 
 #### Exam prep
 - [microshell](https://github.com/skitheom/exam-04)
-- [cpp 00-02](https://github.com/skitheom/exam-05)
+- [cpp exam](https://github.com/skitheom/cpp-exam)
+- [miniserv](https://github.com/skitheom/miniserv)
 
 #### Completed
 - [libft](https://github.com/skitheom/libft)
