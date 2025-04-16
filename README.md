@@ -15,11 +15,11 @@
 - [Cpp09](https://github.com/skitheom/Cpp09)
 - [Inception](https://github.com/skitheom/Inception)
 - [Webserv](https://github.com/kose-yusuke/webserv)
+- [miniserv](https://github.com/skitheom/miniserv)
 
 #### Exam prep
 - [microshell](https://github.com/skitheom/microshell)
 - [cpp exam](https://github.com/skitheom/cpp-exam)
-- [miniserv](https://github.com/skitheom/miniserv)
 
 #### Completed
 - [libft](https://github.com/skitheom/libft)
