@@ -15,6 +15,7 @@
 - [Inception](https://github.com/skitheom/Inception)
 - [Webserv](https://github.com/kose-yusuke/webserv)
 - [miniserv](https://github.com/skitheom/miniserv)
+- [ft-transcendence](https://github.com/ft-trans/ft-transcendence)
 
 #### Exam prep
 - [microshell](https://github.com/skitheom/microshell)
@@ -32,8 +33,8 @@
 - [Philosophers](https://github.com/skitheom/Philosophers)
 - [Cpp00](https://github.com/skitheom/Cpp00)
 - [cub3D](https://github.com/kose-yusuke/Cub3D)
-- [Cpp01](https://github.com/skitheom/Cpp01)
 - [Netpractice](https://github.com/skitheom/Netpractice)
+- [Cpp01](https://github.com/skitheom/Cpp01)
 - [Cpp02](https://github.com/skitheom/Cpp02)
 - [Cpp03](https://github.com/skitheom/Cpp03)
 - [Cpp04](https://github.com/skitheom/Cpp04)
