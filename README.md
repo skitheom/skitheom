@@ -13,7 +13,6 @@
 ## 💫 42 Progress
 #### On going
 - [Inception](https://github.com/skitheom/Inception)
-- [Webserv](https://github.com/kose-yusuke/webserv)
 - [miniserv](https://github.com/skitheom/miniserv)
 - [ft-transcendence](https://github.com/ft-trans/ft-transcendence)
 
@@ -43,3 +42,4 @@
 - [Cpp07](https://github.com/skitheom/Cpp07)
 - [Cpp08](https://github.com/skitheom/Cpp08)
 - [Cpp09](https://github.com/skitheom/Cpp09)
+- [Webserv](https://github.com/kose-yusuke/webserv)
