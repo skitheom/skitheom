@@ -16,10 +16,6 @@
 - [miniserv](https://github.com/skitheom/miniserv)
 - [ft-transcendence](https://github.com/ft-trans/ft-transcendence)
 
-#### Exam prep
-- [microshell](https://github.com/skitheom/microshell)
-- [cpp exam](https://github.com/skitheom/cpp-exam)
-
 #### Completed
 - [libft](https://github.com/skitheom/libft)
 - [ft_printf](https://github.com/skitheom/ft_printf)
@@ -43,3 +39,7 @@
 - [Cpp08](https://github.com/skitheom/Cpp08)
 - [Cpp09](https://github.com/skitheom/Cpp09)
 - [Webserv](https://github.com/kose-yusuke/webserv)
+
+#### Exam prep
+- [microshell](https://github.com/skitheom/microshell)
+- [cpp exam](https://github.com/skitheom/cpp-exam)
