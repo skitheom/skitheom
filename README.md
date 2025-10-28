@@ -12,8 +12,8 @@
 
 ## 💫 42 Progress
 #### On going
-- [miniserv](https://github.com/skitheom/miniserv)
-
+- [mini-serv](https://github.com/skitheom/mini-serv)
+- [mini-db](https://github.com/skitheom/mini-db)
 #### Completed
 - [libft](https://github.com/skitheom/libft)
 - [ft_printf](https://github.com/skitheom/ft_printf)
