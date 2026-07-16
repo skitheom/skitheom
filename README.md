@@ -1,19 +1,11 @@
 ### Hi there 🐻
 
-- 🌱 I’m learning CS at UoPeople.
-
-## 📈 GitHub Statistic
-![skitheom's Stats](https://github-readme-stats.vercel.app/api?username=skitheom&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=skitheom&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+- 🌱
 
 ## 🚀 LeetCode Progress
 [![skitheom's LeetCode Stats](https://leetcard.jacoblin.cool/skith?theme=unicorn&font=ABeeZee)](https://github.com/skitheom/leetcode)
 
 ## 💫 42 Progress
-#### On going
-- [mini-serv](https://github.com/skitheom/mini-serv)
-- [mini-db](https://github.com/skitheom/mini-db)
 #### Completed
 - [libft](https://github.com/skitheom/libft)
 - [ft_printf](https://github.com/skitheom/ft_printf)
@@ -43,3 +35,5 @@
 #### Exam prep
 - [microshell](https://github.com/skitheom/microshell)
 - [cpp exam](https://github.com/skitheom/cpp-exam)
+- [mini-serv](https://github.com/skitheom/mini-serv)
+- [mini-db](https://github.com/skitheom/mini-db)
